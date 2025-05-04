@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "snowy-mountain-6222",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "36a59c2d-e32b-49d8-8c5c-99a5a150eecf",
+      "database_name": "ancient-wind-74b2-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
